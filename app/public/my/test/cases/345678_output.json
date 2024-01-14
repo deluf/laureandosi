@@ -1,0 +1,43 @@
+{
+  "cdl": "t-inf",
+  "dataLaurea": "2023-01-04",
+  "matricola": 345678,
+  "nome": "NICCOLO",
+  "cognome": "BARELLA",
+  "mail": "nome.cognome@studenti.unipi.it",
+  "bonus": "SI",
+  "mediaPesata": 25.564,
+  "cfuInMedia": 165,
+  "cfuCurriculari": 177,
+  "mediaPesataInf": 25.75,
+  "simulazione": [
+    [
+      1,
+      95.691
+    ],
+    [
+      2,
+      96.691
+    ],
+    [
+      3,
+      97.691
+    ],
+    [
+      4,
+      98.691
+    ],
+    [
+      5,
+      99.691
+    ],
+    [
+      6,
+      100.691
+    ],
+    [
+      7,
+      101.691
+    ]
+  ]
+}

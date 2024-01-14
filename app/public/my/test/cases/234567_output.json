@@ -1,0 +1,65 @@
+{
+  "cdl": "m-ele",
+  "dataLaurea": "2023-01-04",
+  "matricola": 234567,
+  "nome": "ALESSANDRO",
+  "cognome": "BASTONI",
+  "mail": "nome.cognome@studenti.unipi.it",
+  "mediaPesata": 24.559,
+  "cfuInMedia": 102,
+  "cfuCurriculari": 102,
+  "simulazione": [
+    [
+      18,
+      94.3
+    ],
+    [
+      19,
+      94.9
+    ],
+    [
+      20,
+      95.5
+    ],
+    [
+      21,
+      96.1
+    ],
+    [
+      22,
+      96.7
+    ],
+    [
+      23,
+      97.3
+    ],
+    [
+      24,
+      97.9
+    ],
+    [
+      25,
+      98.5
+    ],
+    [
+      26,
+      99.1
+    ],
+    [
+      27,
+      99.7
+    ],
+    [
+      28,
+      100.3
+    ],
+    [
+      29,
+      100.9
+    ],
+    [
+      30,
+      101.5
+    ]
+  ]
+}

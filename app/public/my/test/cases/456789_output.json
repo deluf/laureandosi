@@ -1,0 +1,57 @@
+{
+  "cdl": "m-tlc",
+  "dataLaurea": "2023-01-04",
+  "matricola": 456789,
+  "nome": "MATTEO",
+  "cognome": "POLITANO",
+  "mail": "nome.cognome@studenti.unipi.it",
+  "mediaPesata": 32.625,
+  "cfuInMedia": 96,
+  "cfuCurriculari": 96,
+  "simulazione": [
+    [
+      1,
+      120.625
+    ],
+    [
+      2,
+      121.625
+    ],
+    [
+      3,
+      122.625
+    ],
+    [
+      4,
+      123.625
+    ],
+    [
+      5,
+      124.625
+    ],
+    [
+      6,
+      125.625
+    ],
+    [
+      7,
+      126.625
+    ],
+    [
+      8,
+      127.625
+    ],
+    [
+      9,
+      128.625
+    ],
+    [
+      10,
+      129.625
+    ],
+    [
+      11,
+      130.625
+    ]
+  ]
+}

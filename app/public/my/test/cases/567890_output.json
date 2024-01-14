@@ -1,0 +1,41 @@
+{
+  "cdl": "m-cyb",
+  "dataLaurea": "2023-01-04",
+  "matricola": 567890,
+  "nome": "FRANCESCO",
+  "cognome": "ACERBI",
+  "mail": "nome.cognome@studenti.unipi.it",
+  "mediaPesata": 24.882,
+  "cfuInMedia": 102,
+  "cfuCurriculari": 102,
+  "simulazione": [
+    [
+      1,
+      92.235
+    ],
+    [
+      2,
+      93.235
+    ],
+    [
+      3,
+      94.235
+    ],
+    [
+      4,
+      95.235
+    ],
+    [
+      5,
+      96.235
+    ],
+    [
+      6,
+      97.235
+    ],
+    [
+      7,
+      98.235
+    ]
+  ]
+}

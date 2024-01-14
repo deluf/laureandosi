@@ -1,0 +1,54 @@
+
+* {
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.intestazione {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.testcase {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    grid-column: 1 / span 3;
+}
+
+.sezione {
+    font-style: italic;
+    text-align: center;
+}
+
+.pass {
+    color: #00a32a;
+}
+
+.error {
+    color: #ff3b36;
+}
+
+iframe {
+    border: none;
+    margin-left: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.output {
+    display: grid;
+    grid-template-columns: 800px 50% 50%;
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "matricola": "*",
+    "esamiNonInCurriculum": [
+      "PROVA FINALE",
+      "TESI",
+      "TEST DI VALUTAZIONE DI INGEGNERIA",
+      "LIBERA SCELTA PER RICONOSCIMENTI"
+    ],
+    "esamiNonInMedia": [
+    ]
+  }
+]

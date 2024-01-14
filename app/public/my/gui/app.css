@@ -1,0 +1,90 @@
+
+form {
+    display: flex;
+    max-width: 800px;
+    min-width: 500px;
+    min-height: 100px;
+    max-height: 300px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    background-color: #cfdfff;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left, .right {
+    min-width: 145px;
+    flex: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.center {
+    flex: 2;
+}
+
+.right {
+    padding-top: 23px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+select, input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 90%;
+    width: 100%;
+    resize: none;
+}
+
+label {
+    font-size: 1.2rem;
+}
+
+.button {
+    padding: 8px;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: .95rem;
+}
+
+.link {
+    font-size: .95rem;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: blue;
+}
+
+#info {
+    font-size: .9rem;
+    color: green;
+}
+
+.errore {
+    color: red !important;
+}
+
+span {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+}

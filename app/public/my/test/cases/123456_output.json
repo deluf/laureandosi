@@ -1,0 +1,43 @@
+{
+  "cdl": "t-inf",
+  "dataLaurea": "2023-01-04",
+  "matricola": 123456,
+  "nome": "GIANLUIGI",
+  "cognome": "DONNARUMMA",
+  "mail": "nome.cognome@studenti.unipi.it",
+  "bonus": "NO",
+  "mediaPesata": 23.655,
+  "cfuInMedia": 174,
+  "cfuCurriculari": 177,
+  "mediaPesataInf": 23.667,
+  "simulazione": [
+    [
+      1,
+      89.966
+    ],
+    [
+      2,
+      90.966
+    ],
+    [
+      3,
+      91.966
+    ],
+    [
+      4,
+      92.966
+    ],
+    [
+      5,
+      93.966
+    ],
+    [
+      6,
+      94.966
+    ],
+    [
+      7,
+      95.966
+    ]
+  ]
+}
